@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of Ensimäinen rakkauteni, by Ivan
+The Project Gutenberg eBook of Ensimäinen rakkauteni, by Ivan
 Turgenev
 
 This eBook is for the use of anyone anywhere in the United States and
@@ -16,13 +16,13 @@ Author: Ivan Turgenev
 Translator: Siiri Hannikainen
 
 Release Date: July 3, 2023 [eBook #71101]
+Last Updated: July 9, 2023
 
 Language: Finnish
 
 Credits: Tapio Riikonen
 
 *** START OF THE PROJECT GUTENBERG EBOOK ENSIMÄINEN RAKKAUTENI ***
-
 
 
 
@@ -37,7 +37,6 @@ Ivan Turgenev
 Suomensi
 
 Siiri Hannikainen
-
 
 
 
@@ -259,6 +258,11 @@ syystä aloin hypellä yhdellä jalalla. Sitten minä rasvasin tukkani
 hiusvoiteella, paneuduin vuoteeseen ja nukuin kuin tukki koko yön.
 Aamun sarastaessa heräsin hetkiseksi, kohotin päätäni, katsahdin
 ihastuneena ympärilleni ja nukahdin uudelleen.
+
+
+
+
+III
 
 »Kuinkahan voisin tehdä tuttavuutta hänen kanssaan?» oli ensimäinen
 ajatukseni herätessäni aamulla. Jo ennen aamuteen juontia minä
